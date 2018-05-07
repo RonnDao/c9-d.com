@@ -1,0 +1,1 @@
+$(function(){window.colorWhite=!0,disc&&disc.forEach(function(c){c.attr({fill:"#cfcfcf"})})});
